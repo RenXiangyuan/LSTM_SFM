@@ -19,9 +19,10 @@ The model will always yield a prediction after the changes have happened, e.g. t
 
 ## ARIMA - Bitcoin Price Prediction
 I have cooperated with Shiyi Wang, using LSTM and ARIMA to predict Bitcoin Prices.
-The codes are in file named "Bitcoin"
+We get the data using the Bitfinex API.
+The codes are included in the file named "Bitcoin"
 Please read my
 
-[Report PDF](https://github.com/RenXiangyuan/LSTM_SFM/blob/master/stock-prediction-lstm.pdf) 
+[Report PDF](https://github.com/RenXiangyuan/LSTM_SFM/blob/master/Bitcoin/Bitcoin%20Price%20Time%20Series%20Prediction%20Using%20ARMA%20%26%20LSTM%20Model.pdf) 
 
 for detail information about the Bitcoin prediction on LSTM and ARMA.
