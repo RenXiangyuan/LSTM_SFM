@@ -6,7 +6,11 @@ Please read my
 
 [Report PDF](https://github.com/RenXiangyuan/LSTM_SFM/blob/master/stock-prediction-lstm%20(1).pdf) 
 
-for detail information about the stock prediction on LSTM and SFM
+for detail information about the stock prediction on LSTM and SFM.
+
+Language: Python 2.7
+Framework: Keras
+Backend: Theano 
 
 SFM is a model that can make predictions on different strategies, short term or long term. It make prediction on users' choice. For example, those looking at a long period investment may use long term strategy.
 
