@@ -2,7 +2,7 @@
 
 I have just read a paper on SIGKDD 2017 about stock price prediction, named Stock Price Prediction via Discovering Multi-Frequency Trading Patterns. And implemented a LSTM version on the 50 stock dataset they provided.
 
-Please read this 
+Please read my
 
 [Report PDF](https://github.com/RenXiangyuan/LSTM_SFM/blob/master/stock-prediction-lstm%20(1).pdf) 
 
